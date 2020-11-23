@@ -63,6 +63,8 @@
 
 [详解](https://mp.weixin.qq.com/s/eAptnygPQcQ5Ex8-6l0byA)
 
+[压测](https://www.instana.com/blog/practical-golang-benchmarks/)
+
 [误区与实践](https://mp.weixin.qq.com/s/k8WNWpCIVl4xTmP3TQ_gxQ)
 
 #### 开源库
@@ -98,7 +100,9 @@
 
 #### 规范
 
-[uber代码规范](https://github.com/uber-go/guide/blob/master/style.md)
+[uber代码规范](https://github.com/xxjwxc/uber_go_guide_cn)
+
+[go-advice](https://github.com/cristaloleg/go-advice/blob/master/README_ZH.md)
 
 [代码结构](https://mp.weixin.qq.com/s/yiU18PzHDxeCXc5YR5x9Ow)
 
