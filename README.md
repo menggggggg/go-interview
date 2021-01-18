@@ -106,6 +106,8 @@
 
 [代码结构](https://mp.weixin.qq.com/s/yiU18PzHDxeCXc5YR5x9Ow)
 
+[编程模式](https://mp.weixin.qq.com/s/0yLVkQ4kJLlvk5Vfz0lQkA)
+
 [热重启](https://mp.weixin.qq.com/s/UVZKFmv8p4ghm8ICdz85wQ)
 
 [性能优化](https://mp.weixin.qq.com/s?__biz=MzAxMTA4Njc0OQ==&mid=2651439572&idx=1&sn=8e550f66eae78e2838e441b07a0330dc&chksm=80bb1f26b7cc9630f1144c135a4a448f8688d42e47ec1b64d90f9a76d427f69ae70c455b008f&scene=21#wechat_redirect)
@@ -232,6 +234,8 @@
 
 [为什么这么快](https://mp.weixin.qq.com/s/b_yzbLeQh57oYjqlIgPiYQ)
 
+[为什么这么快2](https://juejin.cn/post/6915599025882431501?utm_source=gold_browser_extension#heading-4)
+
 [集群搭建总结](https://mp.weixin.qq.com/s?__biz=MzUzNjAxODg4MQ==&mid=2247485567&idx=1&sn=0644277d2c046890a14442830a4ed0f3&chksm=fafde2d1cd8a6bc70307efef696654f89074c2219f824af72effe5eb027cee983b364e4279c8&token=2145573189&lang=zh_CN#rd)
 
 [面试题1](https://mp.weixin.qq.com/s/Z4a8wbWvPDGFTkKJH0X9VQ)
@@ -249,6 +253,10 @@
 [优化指南](https://mp.weixin.qq.com/s/fA4Y69Xi7iZPdF8LwBSayg)
 
 [优化指南2](https://mp.weixin.qq.com/s/izRaZ-oKXYAN1RFC8vWCMw)
+
+#### Mysql
+
+[优化原理剖析](https://mp.weixin.qq.com/s/iSSvKqNFSRhcym8X-_A8vQ)
 
 ------
 
@@ -396,11 +404,15 @@
 
 [优雅向前兼容](https://mp.weixin.qq.com/s/2PMte2zhaf9tUmMvHiEwxw)
 
+[微服务架构中10个常用的设计模式](https://mp.weixin.qq.com/s/PzPfWHVanSQpZha7qDeKGw)
+
 ------
 
 ### kubernetes
 
 [入门](http://matt33.com/2020/08/02/kubernetes-start/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[Kubernetes如果是个水族馆！](https://mp.weixin.qq.com/s/4vHeH3x1lshztODLzR-48Q)
 
 [对象](https://mp.weixin.qq.com/s/qrJ50ma4LWBuOn_7WPGznw)
 
@@ -417,6 +429,8 @@
 [Envoy 几种负责均衡算法](https://mp.weixin.qq.com/s/Yxo4tua34w2O5BDNVtFm2w)
 
 [最佳实践](https://mp.weixin.qq.com/s/CGcwPahTjjrDZZXHy_vKpA)
+
+[入门实战](https://mp.weixin.qq.com/s/sq6zq7I1emVzFnSTlQKQRw)
 
 [50个面试问题](https://mp.weixin.qq.com/s/ctFbNctTbQEZixjKblfcyw)
 
