@@ -180,6 +180,8 @@
 
 [IO多路复用](https://mp.weixin.qq.com/s/PzOF9lFYVacPIRx0JakTjA)
 
+[IO多路复用2](https://mp.weixin.qq.com/s?__biz=MzI0MjEwMDMzNQ==&mid=2652517896&idx=1&sn=0ccd0ddf7e0b75094a6843039948692f&chksm=f2efe708c5986e1e00e33dc17e063e9398d1a54a7c2b5eee94de7a99be912e8edb42cb133b86&token=847914524&lang=zh_CN#rd)
+
 [最大并发数](https://mp.weixin.qq.com/s/zb8DdjVn-f1zc51evyZ_eg)
 
 #### HTTP
