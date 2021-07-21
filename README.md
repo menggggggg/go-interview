@@ -63,6 +63,8 @@
 
 [详解](https://mp.weixin.qq.com/s/eAptnygPQcQ5Ex8-6l0byA)
 
+[手把手教你如何进行 Golang 单元测试](https://mp.weixin.qq.com/s/N5wby-aWWEPc7mHN_lN3lQ)
+
 [压测](https://www.instana.com/blog/practical-golang-benchmarks/)
 
 [误区与实践](https://mp.weixin.qq.com/s/k8WNWpCIVl4xTmP3TQ_gxQ)
@@ -76,6 +78,12 @@
 [jupiter](http://jupiter.douyu.com/jupiter/)
 
 [别人代码学习golang](https://syncd.cn/study_code_01/)
+
+[分布式事务（dtm）](https://mp.weixin.qq.com/s/UmGnCM3SLWZUI0yMaTeqxA)
+
+[会话控制](https://github.com/gorilla/sessions)
+
+[解读Zap的高性能](https://mp.weixin.qq.com/s/Qc5tGELKPZOA9LEBOEkuow)
 
 ##### micro
 
@@ -106,6 +114,8 @@
 
 [代码结构](https://mp.weixin.qq.com/s/yiU18PzHDxeCXc5YR5x9Ow)
 
+[浅谈如何组织Go代码结构](https://mp.weixin.qq.com/s/9_WQUpvHKli4btPqCA89Aw)
+
 [编程模式](https://mp.weixin.qq.com/s/0yLVkQ4kJLlvk5Vfz0lQkA)
 
 [热重启](https://mp.weixin.qq.com/s/UVZKFmv8p4ghm8ICdz85wQ)
@@ -115,6 +125,10 @@
 [高阶调试技巧](https://mp.weixin.qq.com/s/GJxHVbaVXnHussFXf1tDMQ)
 
 [pprof](https://mp.weixin.qq.com/s/n8Ot6AWsat2gUCwlgoLRHg)
+
+[Profiling 在微服务应用下的落地实践](https://mp.weixin.qq.com/s/vYTU2FjJXWD7cxwlKTco0g)
+
+[Go 应用优化指北](https://mp.weixin.qq.com/s/KFT1hw02Zih1TMMlDWztCQ)
 
 ------
 
@@ -137,6 +151,12 @@
 [负载均衡](https://mp.weixin.qq.com/s/0nW7Bpadgvq8NRRsTbZ3Vw)
 
 [eBPF](https://mp.weixin.qq.com/s/25mhUrNhF3HW8H6-ES7waA)
+
+[深入理解netfilter框架](https://github.com/0voice/campus_recruitmen_questions)
+
+[深入理解Linux IO模型](https://mp.weixin.qq.com/s/PIIwZH5fQiaXQQmhYGCo7g)
+
+[同步？异步？阻塞？非阻塞？多路复用？](https://mp.weixin.qq.com/s/OT9goRL6JSGl70DtF7a31Q)
 
 #### nginx
 
@@ -163,6 +183,8 @@
 [文件上传](https://mp.weixin.qq.com/s/sHqN9sf8iOLzKApH0KR9vg)
 
 [文件断点续传](https://mp.weixin.qq.com/s/bI5xYq3jUtp-sviKlzHtNg)
+
+[常见网络编程面试题](https://mp.weixin.qq.com/s/NhUUl4VxzsoNkvv7roBRPg)
 
 #### TCP
 
@@ -196,6 +218,8 @@
 
 [超时传递原理](https://mp.weixin.qq.com/s/9vA40m1wbQ8bBd_tO8B8IA)
 
+[gRPC 基础概念详解](https://mp.weixin.qq.com/s/I2QHEBO26nGqhGwIw281Pg)
+
 #### Websocket
 
 [websocket](https://mp.weixin.qq.com/s/28FSBp4lj2l1H0caMNrjrw)
@@ -217,6 +241,8 @@
 #### redis
 
 [内存模型](https://mp.weixin.qq.com/s/YGmOoBZ7J-3dPrNntRTfSg)
+
+[Redis 竟然浪费了这么多内存](https://mp.weixin.qq.com/s/S8e7fXL0rO3pOS_QRp44iA)
 
 [优化](https://mp.weixin.qq.com/s/NKGMTYCjsIga_1r2K3IPlw)
 
@@ -240,6 +266,8 @@
 
 [集群搭建总结](https://mp.weixin.qq.com/s?__biz=MzUzNjAxODg4MQ==&mid=2247485567&idx=1&sn=0644277d2c046890a14442830a4ed0f3&chksm=fafde2d1cd8a6bc70307efef696654f89074c2219f824af72effe5eb027cee983b364e4279c8&token=2145573189&lang=zh_CN#rd)
 
+[缓存设计的好，服务基本不会倒](https://mp.weixin.qq.com/s/ueo9zNMx1OO4cScebORN9Q)
+
 [面试题1](https://mp.weixin.qq.com/s/Z4a8wbWvPDGFTkKJH0X9VQ)
 
 #### mongo
@@ -260,11 +288,17 @@
 
 [优化原理剖析](https://mp.weixin.qq.com/s/iSSvKqNFSRhcym8X-_A8vQ)
 
+[SQL 查询并不是从 SELECT 开始的](https://mp.weixin.qq.com/s/5BF12rIs1QXQpX4vpKkL0Q)
+
 ------
 
 ### 微服务
 
 [api 设计](https://mp.weixin.qq.com/s/IMXHaibmiskOBwZlk3wpiA)
+
+[为什么我使用 GraphQL 而放弃 REST API](https://mp.weixin.qq.com/s/n1HGGe4_Ty8q7sMbORCADg)
+
+[Spring GraphQL](https://mp.weixin.qq.com/s/4YFnVUGmNm79PQ-stGHs2g)
 
 ------
 
@@ -290,6 +324,14 @@
 
 [面试连环问](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485753&idx=1&sn=d22f8adc8eb0dfc08163e160127f6b17&source=41#wechat_redirect)
 
+[解决消息队列的数据积压问题](https://mp.weixin.qq.com/s/-DjqcjHxDVUfIC4hf_BkiA)
+
+### OAuth
+
+[OAuth2](https://mp.weixin.qq.com/s/XhOfr8aYfUYLW0VRCB1PmQ)
+
+[第三方账号登陆 ](https://mp.weixin.qq.com/s/N_Dz4R4tyUpoeQskUEyarg)
+
 ------
 
 ### ElasticSearch
@@ -297,6 +339,8 @@
 [入门](https://mp.weixin.qq.com/s/gHTLSB1sBOlrJ3F8U9affQ)
 
 [入门2](https://mp.weixin.qq.com/s/l20pmtgwuBUMv6JUdzXIbg)
+
+[原来 Elasticsearch 还可以这么理解](https://mp.weixin.qq.com/s/DRQt_r1ZqECO07IsJKClbA)
 
 [常见错误及最佳实践](https://mp.weixin.qq.com/s/zsAk7clgxzrjWLpQbYoTXg)
 
@@ -342,6 +386,8 @@
 
 [雪花算法](https://mp.weixin.qq.com/s/5OQ-ZXUnbbT864ZVF8pC_g)
 
+[一文搞懂一致性hash的原理和实现](https://mp.weixin.qq.com/s/dpwC4TAAO1CdlPWIC_KFUg)
+
 ------
 
 ### 加密
@@ -358,7 +404,29 @@
 
 [图解9种常见设计模式](https://mp.weixin.qq.com/s/-jpIitC1j3geciJzkuexdA)
 
+[23 种设计模式的通俗解释，虽然有点污，但是秒懂](https://mp.weixin.qq.com/s/3CzHf8sDz_AjxDTROfuyTA)
+
+[图文详解 23 种设计模式](https://mp.weixin.qq.com/s/MYnCbyhiAClg9Q0IEp6kVA)
+
 [mybatis中的9种](https://mp.weixin.qq.com/s/d_2Pom9BfgTHbQf2h8O0LA)
+
+------
+
+### 代码质量
+
+[如何提高代码的可读性](https://mp.weixin.qq.com/s/_fg_oS74DEd4jKqJFHKHzg)
+
+------
+
+### 学习之路
+
+- Go：https://github.com/Alikhll/golang-developer-roadmap
+- React：https://github.com/adam-golab/react-developer-roadmap
+- Rust Web：https://github.com/anshulrgoyal/rust-web-developer-roadmap
+- ASP.NET：https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
+- Java：https://github.com/s4kibs4mi/java-developer-roadmap
+- Flutter：https://github.com/DroidsOnRoids/flutter-roadmap
+- NLP：https://github.com/graykode/nlp-roadmap
 
 ------
 
@@ -424,6 +492,8 @@
 
 [pod创建](https://mp.weixin.qq.com/s/lcenZGKTkAcTT7DZrhBbvw)
 
+[大白话告诉你到底用不用学习这该死的Kubernetes容器化](https://mp.weixin.qq.com/s/2WOgn_9_5sx9_1uSIWlg8A)
+
 [部署debug](https://donge.org/posts/envoy-vs-traefik/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [[Envoy VS Traefik](https://donge.org/posts/envoy-vs-traefik/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -431,6 +501,8 @@
 [Envoy 几种负责均衡算法](https://mp.weixin.qq.com/s/Yxo4tua34w2O5BDNVtFm2w)
 
 [最佳实践](https://mp.weixin.qq.com/s/CGcwPahTjjrDZZXHy_vKpA)
+
+[最简单的 K8S 部署文件编写姿势，没有之一！](https://mp.weixin.qq.com/s/uwIHQb2Rm8OQ_w9OHIL7hw)
 
 [入门实战](https://mp.weixin.qq.com/s/sq6zq7I1emVzFnSTlQKQRw)
 
@@ -451,6 +523,8 @@
 [CI/CD](https://mp.weixin.qq.com/s/XDMXxM6A-S99Rf26OQH_hg)
 
 [Devops](https://mp.weixin.qq.com/s/NWzUzX6wss7WeuVI_oFuHQ)
+
+[72 个网络应用安全实操要点，全方位保护你的 Web 应用](https://mp.weixin.qq.com/s/hkBu8Lc4eiBA0gsXfiZwhA)
 
 #### 监控
 
@@ -473,3 +547,5 @@
 [面试2](https://mp.weixin.qq.com/s/pA2pYdoZU8ZIZoFm9txESw)
 
 [面试3](https://mp.weixin.qq.com/s/dPDou-DKCYqzTHTHX6A0Bw)
+
+[golang 50问](https://mp.weixin.qq.com/s/gp-4KCc0JcuSA05jXpVYuA)
