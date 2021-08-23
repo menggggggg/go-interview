@@ -56,3 +56,13 @@ func main() {
 - 当如果同一时间有多个case均能return则伪随机方式抽取任意一个执行。
 - 如果没有一个case能return则可以执行”default”块
 
+4. slice
+
+   ```go
+   s := make([]int, 5) // make([]int,0) or make([]int,0,5)
+   s = append(s, 1, 2, 3)
+   fmt.Println(s) // 0 0 0 0 0 1 2 3
+   
+   ```
+
+   
