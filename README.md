@@ -38,6 +38,8 @@
 
 [变量分配到哪里](https://mp.weixin.qq.com/s/bZ06N2Cvl5HFxhDMMX1ReA)
 
+[内存逃逸](https://mp.weixin.qq.com/s/MepbrrSlGVhNrEkTQhfhhQ)
+
 #### 调度器
 
 - goroutine
@@ -52,6 +54,8 @@
 - 垃圾回收
 
 [三色标记法](https://mp.weixin.qq.com/s/TqNLZoQQhJeech7RWnvtfA)
+
+[白话Go的垃圾回收原理](https://mp.weixin.qq.com/s/s8_RWA_D-I03AnBZNF9utg)
 
 #### 并发模型
 
@@ -172,6 +176,8 @@
 
 [基础知识](https://mp.weixin.qq.com/s/JBsqCQAouQ6hH7gcvtYMLg)
 
+[详解网络基础知识](https://mp.weixin.qq.com/s/MKfVBi9GwgY6qxVwxmsCcg)
+
 [字节实践](https://mp.weixin.qq.com/s/agIYfq_7Bu6WAJ-zJ2f1CQ)
 
 [网络协议面试](https://mp.weixin.qq.com/s/_yEqNFbxsIhS_45WKTy9_w)
@@ -185,6 +191,8 @@
 [文件断点续传](https://mp.weixin.qq.com/s/bI5xYq3jUtp-sviKlzHtNg)
 
 [常见网络编程面试题](https://mp.weixin.qq.com/s/NhUUl4VxzsoNkvv7roBRPg)
+
+[面试题集锦](https://mp.weixin.qq.com/s/AaZlb_cKsHb47q7WUiP3IQ)
 
 #### TCP
 
@@ -213,6 +221,8 @@
 [缓存机制](https://mp.weixin.qq.com/s/1Eu0dGB2Eh35f0GXYz21aQ)
 
 [谈谈Http](https://zhuanlan.zhihu.com/p/159274359?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[一个故事看懂HTTPS](https://juejin.cn/post/6995162794161094663)
 
 #### Grpc
 
@@ -290,15 +300,9 @@
 
 [SQL 查询并不是从 SELECT 开始的](https://mp.weixin.qq.com/s/5BF12rIs1QXQpX4vpKkL0Q)
 
-------
+[mysql技术内幕笔记](https://www.cnblogs.com/BlueMountain-HaggenDazs/category/1252321.html)
 
-### 微服务
-
-[api 设计](https://mp.weixin.qq.com/s/IMXHaibmiskOBwZlk3wpiA)
-
-[为什么我使用 GraphQL 而放弃 REST API](https://mp.weixin.qq.com/s/n1HGGe4_Ty8q7sMbORCADg)
-
-[Spring GraphQL](https://mp.weixin.qq.com/s/4YFnVUGmNm79PQ-stGHs2g)
+[mysql面试题](https://mp.weixin.qq.com/s/b7jLlHpNGB18VwUY_WeDLg)
 
 ------
 
@@ -326,11 +330,7 @@
 
 [解决消息队列的数据积压问题](https://mp.weixin.qq.com/s/-DjqcjHxDVUfIC4hf_BkiA)
 
-### OAuth
-
-[OAuth2](https://mp.weixin.qq.com/s/XhOfr8aYfUYLW0VRCB1PmQ)
-
-[第三方账号登陆 ](https://mp.weixin.qq.com/s/N_Dz4R4tyUpoeQskUEyarg)
+[消息队列背后的设计思想](https://mp.weixin.qq.com/s/k8sA6XPrp80JiNbuwKaVfg)
 
 ------
 
@@ -347,6 +347,28 @@
 [优化实战](https://mp.weixin.qq.com/s/PFzRT5Ky0reMXrMRJsj2jQ)
 
 [优化实战2](https://mp.weixin.qq.com/s?__biz=MzA3ODIxNjYxNQ==&mid=2247487186&amp;idx=1&amp;sn=f64ab0c1597b6ae55b0b15229808f413&source=41&key=&ascene=14&uin=&devicetype=Windows+10&version=620603c8&lang=zh_CN&winzoom=1)
+
+------
+
+### prometheus 
+
+[深入理解prometheus](https://mp.weixin.qq.com/s/AjN6fq5DPs4QQhZ0Lc4eDQ)
+
+------
+
+### 微服务
+
+[api 设计](https://mp.weixin.qq.com/s/IMXHaibmiskOBwZlk3wpiA)
+
+[为什么我使用 GraphQL 而放弃 REST API](https://mp.weixin.qq.com/s/n1HGGe4_Ty8q7sMbORCADg)
+
+[Spring GraphQL](https://mp.weixin.qq.com/s/4YFnVUGmNm79PQ-stGHs2g)
+
+#### OAuth
+
+[OAuth2](https://mp.weixin.qq.com/s/XhOfr8aYfUYLW0VRCB1PmQ)
+
+[第三方账号登陆 ](https://mp.weixin.qq.com/s/N_Dz4R4tyUpoeQskUEyarg)
 
 ------
 
@@ -407,6 +429,8 @@
 [23 种设计模式的通俗解释，虽然有点污，但是秒懂](https://mp.weixin.qq.com/s/3CzHf8sDz_AjxDTROfuyTA)
 
 [图文详解 23 种设计模式](https://mp.weixin.qq.com/s/MYnCbyhiAClg9Q0IEp6kVA)
+
+[通俗解释](https://mp.weixin.qq.com/s/3nhrHU84FNNulKYzHAyETA)
 
 [mybatis中的9种](https://mp.weixin.qq.com/s/d_2Pom9BfgTHbQf2h8O0LA)
 
@@ -484,7 +508,11 @@
 
 [Kubernetes如果是个水族馆！](https://mp.weixin.qq.com/s/4vHeH3x1lshztODLzR-48Q)
 
+[Kubernetes原理](https://mp.weixin.qq.com/s/nGRUBlW0JnEDZXQaoEDjRg)
+
 [对象](https://mp.weixin.qq.com/s/qrJ50ma4LWBuOn_7WPGznw)
+
+[14个Kubernetes必备基础](https://mp.weixin.qq.com/s/vN228a07K5T82pU6Vg0DYQ)
 
 [干货文章100](https://mp.weixin.qq.com/s/8A_It3NNklbbG--P6Dw9gQ)
 
@@ -497,6 +525,8 @@
 [部署debug](https://donge.org/posts/envoy-vs-traefik/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [[Envoy VS Traefik](https://donge.org/posts/envoy-vs-traefik/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[4 种常用的 Kubernetes 容器](https://mp.weixin.qq.com/s/khJXu3-pHKRXzTxS4dcgJA)
 
 [Envoy 几种负责均衡算法](https://mp.weixin.qq.com/s/Yxo4tua34w2O5BDNVtFm2w)
 
