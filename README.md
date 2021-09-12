@@ -57,6 +57,8 @@
 
 [白话Go的垃圾回收原理](https://mp.weixin.qq.com/s/s8_RWA_D-I03AnBZNF9utg)
 
+[漫画](https://mp.weixin.qq.com/s/FQ25hro703sSNYTp-vfAwg)
+
 #### 并发模型
 
 - sync
@@ -193,6 +195,8 @@
 [常见网络编程面试题](https://mp.weixin.qq.com/s/NhUUl4VxzsoNkvv7roBRPg)
 
 [面试题集锦](https://mp.weixin.qq.com/s/AaZlb_cKsHb47q7WUiP3IQ)
+
+[SSH](https://mp.weixin.qq.com/s/GdbR83cv7HQeSd8aH5_QDQ)
 
 #### TCP
 
@@ -579,3 +583,33 @@
 [面试3](https://mp.weixin.qq.com/s/dPDou-DKCYqzTHTHX6A0Bw)
 
 [golang 50问](https://mp.weixin.qq.com/s/gp-4KCc0JcuSA05jXpVYuA)
+
+3.Es知道吗简单说了原理
+
+4.Tcp和udp的区别
+
+5.Https
+
+6.http 1.0 1.1 2.0区别
+
+7.Rpc和http
+
+9.Linux一般怎么排查问题
+
+10.Top netstat tcpdump strace
+
+11.Redis主从同步过程
+
+12.Redis每个数据类型的数据结构
+
+13.Rdb aof
+
+14数据库b+树结构
+
+15最左匹配原则
+
+16慢查询怎么排查Explain
+
+17，又是LC53最大子序和
+
+18多线程用过吗写了三个线程实现同步的代码
