@@ -53,13 +53,17 @@
 
 - 垃圾回收
 
-[三色标记法](https://mp.weixin.qq.com/s/TqNLZoQQhJeech7RWnvtfA)
+[Go垃圾回收、三色标记原理](https://mp.weixin.qq.com/s/srY28v3U-hDr_brV4_BWww)
 
 [白话Go的垃圾回收原理](https://mp.weixin.qq.com/s/s8_RWA_D-I03AnBZNF9utg)
 
 [漫画](https://mp.weixin.qq.com/s/FQ25hro703sSNYTp-vfAwg)
 
+[GC 20问](https://mp.weixin.qq.com/s/5xjH-LJ53XiNm2sMNQZiGQ)
+
 #### 并发模型
+
+[golang 5种原子操作](https://juejin.cn/post/7010590496204521485?utm_source=gold_browser_extension)
 
 - sync
 
@@ -74,6 +78,8 @@
 [压测](https://www.instana.com/blog/practical-golang-benchmarks/)
 
 [误区与实践](https://mp.weixin.qq.com/s/k8WNWpCIVl4xTmP3TQ_gxQ)
+
+[最佳实践](https://mp.weixin.qq.com/s/DbKXka598YVDJHSFCcQOSQ)
 
 #### 开源库
 
@@ -153,6 +159,8 @@
 [ CLOSE WAIT](https://mp.weixin.qq.com/s/sqBdycaClUixZQPgKy52Pw)
 
 [epoll](https://mp.weixin.qq.com/s/zWaDVuNFfclx_sx_EuX63Q)
+
+[Linux epoll惊群问题](https://mp.weixin.qq.com/s/O_QVxhyS7C3gJluqaLerWQ)
 
 [负载均衡](https://mp.weixin.qq.com/s/0nW7Bpadgvq8NRRsTbZ3Vw)
 
@@ -531,6 +539,8 @@
 [[Envoy VS Traefik](https://donge.org/posts/envoy-vs-traefik/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [4 种常用的 Kubernetes 容器](https://mp.weixin.qq.com/s/khJXu3-pHKRXzTxS4dcgJA)
+
+[运维锦囊，19个K8S日常故障处理解决方案](https://mp.weixin.qq.com/s/47RGWBogU5hbkQu5lKhGhA)
 
 [Envoy 几种负责均衡算法](https://mp.weixin.qq.com/s/Yxo4tua34w2O5BDNVtFm2w)
 
