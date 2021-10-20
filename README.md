@@ -40,6 +40,8 @@
 
 [内存逃逸](https://mp.weixin.qq.com/s/MepbrrSlGVhNrEkTQhfhhQ)
 
+[内存分配（性能优化）](https://mp.weixin.qq.com/s/Dtl7INEA2tnm1ZjSODwazg)
+
 #### 调度器
 
 - goroutine
@@ -81,6 +83,12 @@
 
 [最佳实践](https://mp.weixin.qq.com/s/DbKXka598YVDJHSFCcQOSQ)
 
+[Go Test小技巧](https://mp.weixin.qq.com/s/y3UKaLD40A7C89GkGq7GKQ)
+
+#### 调试
+
+[golang 调试分析的高阶技巧](https://mp.weixin.qq.com/s/j0ZWlctxzx_yNhJb__hciA)
+
 #### 开源库
 
 [go-zero](https://mp.weixin.qq.com/s/mrFnJpJzRa94W1mfGr7N1g)
@@ -96,6 +104,8 @@
 [会话控制](https://github.com/gorilla/sessions)
 
 [解读Zap的高性能](https://mp.weixin.qq.com/s/Qc5tGELKPZOA9LEBOEkuow)
+
+[http 重试](https://mp.weixin.qq.com/s/DAEZQnC2UYwcFeEh0e8VoQ)
 
 ##### micro
 
@@ -117,6 +127,10 @@
 (尾声): 分布式计划任务 https://medium.com/@dche423/micro-in-action-9-cron-job-dabec09058e1
 
 ```
+
+##### gin
+
+https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 
 #### 规范
 
@@ -141,6 +155,12 @@
 [Profiling 在微服务应用下的落地实践](https://mp.weixin.qq.com/s/vYTU2FjJXWD7cxwlKTco0g)
 
 [Go 应用优化指北](https://mp.weixin.qq.com/s/KFT1hw02Zih1TMMlDWztCQ)
+
+[Context这三个应用场景](https://mp.weixin.qq.com/s/uIL7gsdUn89MopbAxE2rjQ)
+
+[一套优雅的 Go 错误问题解决方案](https://mp.weixin.qq.com/s/RFF2gSikqXiWXIaOxQZsxQ)
+
+[22条API设计的最佳实践](https://mp.weixin.qq.com/s/doQsjLpZ4F68GtK7XR5QDQ)
 
 ------
 
@@ -186,7 +206,11 @@
 
 [基础知识](https://mp.weixin.qq.com/s/JBsqCQAouQ6hH7gcvtYMLg)
 
+[基础知识2](https://mp.weixin.qq.com/s/cHVsxIDPo8wXPTqvvdnvXQ)
+
 [详解网络基础知识](https://mp.weixin.qq.com/s/MKfVBi9GwgY6qxVwxmsCcg)
+
+[Linux网络IO精华指南](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5ODYwMjI2MA==&scene=161#wechat_redirect)
 
 [字节实践](https://mp.weixin.qq.com/s/agIYfq_7Bu6WAJ-zJ2f1CQ)
 
@@ -555,6 +579,14 @@
 [CI/CD](https://mp.weixin.qq.com/s/E21w94x7iu6BCY7dXF9-WQ)
 
 [工具](https://mp.weixin.qq.com/s/DL2M_Y6ILIwtctm97ZisDA)
+
+------
+
+#### IM
+
+[微信、陌陌等著名IM软件设计架构](https://mp.weixin.qq.com/s/xzvC_C5aq727diKL1SXeZg)
+
+------
 
 #### Istio
 
