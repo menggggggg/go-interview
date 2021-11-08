@@ -32,6 +32,8 @@
 
 [分配器](https://mp.weixin.qq.com/s/TO_lmlFbVDgFmns9s_mMzw)
 
+[内存分配扒得干干净净](https://mp.weixin.qq.com/s/8_aeGLEsTItXF3RSpj4T2g)
+
 [图解内存管理](https://mp.weixin.qq.com/s/CsHcVpZ_9rhO3aJy1-gBaA)
 
 [内存管理分析](https://mp.weixin.qq.com/s/rydO2JK-r8JjG9v_Uy7gXg)
@@ -42,11 +44,15 @@
 
 [内存分配（性能优化）](https://mp.weixin.qq.com/s/Dtl7INEA2tnm1ZjSODwazg)
 
+[本地内存](https://mp.weixin.qq.com/s/lAE7im2NSZm-I_7BdVlFng)
+
 #### 调度器
 
 - goroutine
 
   [goroutine 泄露](https://mp.weixin.qq.com/s/5q5eIMDHz35ycTBTkB33JQ)
+
+  [性能分析](https://mp.weixin.qq.com/s/zEtK5uAd40vD-hcWrQDsmw)
 
 - G-P-M 模型 
   ![gmp](https://zhaomeng-private.oss-cn-shanghai.aliyuncs.com/images/gmp.png)
@@ -64,6 +70,8 @@
 [GC 20问](https://mp.weixin.qq.com/s/5xjH-LJ53XiNm2sMNQZiGQ)
 
 #### 并发模型
+
+[流水线模型](https://mp.weixin.qq.com/s/IuGaKbQvW7z1KsoMhB8mgg)
 
 [golang 5种原子操作](https://juejin.cn/post/7010590496204521485?utm_source=gold_browser_extension)
 
@@ -88,6 +96,8 @@
 #### 调试
 
 [golang 调试分析的高阶技巧](https://mp.weixin.qq.com/s/j0ZWlctxzx_yNhJb__hciA)
+
+[如何保留 Go 程序崩溃现场](https://mp.weixin.qq.com/s/RktnMydDtOZFwEFLLYzlCA)
 
 #### 开源库
 
@@ -158,9 +168,15 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 
 [Context这三个应用场景](https://mp.weixin.qq.com/s/uIL7gsdUn89MopbAxE2rjQ)
 
+[Context包详解](https://mp.weixin.qq.com/s/_5gBIwvtXKJME7AV2W2bqQ)
+
 [一套优雅的 Go 错误问题解决方案](https://mp.weixin.qq.com/s/RFF2gSikqXiWXIaOxQZsxQ)
 
+[错误处理的一些建议](https://mp.weixin.qq.com/s/T4CCs7r1COUq-mCnlfCJCQ)
+
 [22条API设计的最佳实践](https://mp.weixin.qq.com/s/doQsjLpZ4F68GtK7XR5QDQ)
+
+[google最佳实践](https://mp.weixin.qq.com/s/XftPV6aiaiqKFCVtM4hhQA)
 
 ------
 
@@ -236,6 +252,8 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 
 [三次握手](https://mp.weixin.qq.com/s/GQTVytNus8EcoGEkOSTUog)
 
+[三次握手2](https://mp.weixin.qq.com/s/U0_kldMWChgCZxoYKyVRZQ)
+
 [23个问题](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485731&idx=1&sn=5b95cefa09ef1e72a8010339654b0e5d&source=41#wechat_redirect)
 
 [问题排查1](https://mp.weixin.qq.com/s/iBk-kEj2tJqMCuFOdXCLEA)
@@ -269,6 +287,8 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 #### Websocket
 
 [websocket](https://mp.weixin.qq.com/s/28FSBp4lj2l1H0caMNrjrw)
+
+[分布式解决方案](https://mp.weixin.qq.com/s/QeWb-9-j5EYeB7I37gZ50A)
 
 ------
 
@@ -316,6 +336,8 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 
 [面试题1](https://mp.weixin.qq.com/s/Z4a8wbWvPDGFTkKJH0X9VQ)
 
+[缓存一致性](https://mp.weixin.qq.com/s/GU3cbUkI84IMwttDz16P3w)
+
 #### mongo
 
 [B/B+树](https://mp.weixin.qq.com/s/kRG8osOgLIenr7UeEqT7aQ)
@@ -348,6 +370,8 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 
 [面试角度学Kafka](https://mp.weixin.qq.com/s/QF9b9vpncLS24xMzFkanTQ)
 
+[Kafka的存储架构](https://mp.weixin.qq.com/s/p45FtD673s-cdkeHqrEc-g)
+
 [rabbitmq](https://mp.weixin.qq.com/s/qSBaD1MInJrvl23kOeeMeA)
 
 [延时队列](https://mp.weixin.qq.com/s/qGywX7S8P3toy-RhQonDYQ)
@@ -355,6 +379,8 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 [复习精讲](https://mp.weixin.qq.com/s/rzEX0wQCoDBxuFmws9f7Lw)
 
 [消息投递](https://mp.weixin.qq.com/s/-jb-FAXzUVepTLFpmgZt8A)
+
+[消息幂等](https://mp.weixin.qq.com/s/E5jtwOhiDzpydr_Leot3RA)
 
 [消息队列选型分析](https://mp.weixin.qq.com/s/6PcvA-8Kfb1LsFKN-ksZkA)
 
@@ -612,6 +638,8 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 
 [prometheus微服务监控](https://mp.weixin.qq.com/s/mbR_VX2G-exNRGKmwqqshA)
 
+[基于 Prometheus、InfluxDB 与 Grafana 打造监控平台](https://mp.weixin.qq.com/s/IC79mZkqTRQa5JsBxGjmKA)
+
 ------
 
 ### 面试题
@@ -624,34 +652,11 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 
 [面试3](https://mp.weixin.qq.com/s/dPDou-DKCYqzTHTHX6A0Bw)
 
+[面试4](https://mp.weixin.qq.com/s/KsBaBGBCjSUB9x_pfDYXPA)
+
 [golang 50问](https://mp.weixin.qq.com/s/gp-4KCc0JcuSA05jXpVYuA)
 
-3.Es知道吗简单说了原理
+[八股文](https://mp.weixin.qq.com/s/tKuecP_dSAbldGTKb9-74Q)
 
-4.Tcp和udp的区别
+[struct](https://mp.weixin.qq.com/s/QnMOwYUANdydbiM8yGznHA)
 
-5.Https
-
-6.http 1.0 1.1 2.0区别
-
-7.Rpc和http
-
-9.Linux一般怎么排查问题
-
-10.Top netstat tcpdump strace
-
-11.Redis主从同步过程
-
-12.Redis每个数据类型的数据结构
-
-13.Rdb aof
-
-14数据库b+树结构
-
-15最左匹配原则
-
-16慢查询怎么排查Explain
-
-17，又是LC53最大子序和
-
-18多线程用过吗写了三个线程实现同步的代码
