@@ -28,6 +28,8 @@
 
   [深度解密](https://mp.weixin.qq.com/s/lcenZGKTkAcTT7DZrhBbvw)
 
+[struct](https://mp.weixin.qq.com/s/QnMOwYUANdydbiM8yGznHA)
+
 #### 内存分配
 
 [分配器](https://mp.weixin.qq.com/s/TO_lmlFbVDgFmns9s_mMzw)
@@ -657,6 +659,4 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 [golang 50问](https://mp.weixin.qq.com/s/gp-4KCc0JcuSA05jXpVYuA)
 
 [八股文](https://mp.weixin.qq.com/s/tKuecP_dSAbldGTKb9-74Q)
-
-[struct](https://mp.weixin.qq.com/s/QnMOwYUANdydbiM8yGznHA)
 
