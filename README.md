@@ -30,6 +30,10 @@
 
 [struct](https://mp.weixin.qq.com/s/QnMOwYUANdydbiM8yGznHA)
 
+[看Go中的struct如何被优化](https://mp.weixin.qq.com/s/maJjOhoByeEA1j_btdpBgg)
+
+[反射](https://mp.weixin.qq.com/s/TmzV2VTfkE8of2_zuKa0gAs)
+
 #### 内存分配
 
 [分配器](https://mp.weixin.qq.com/s/TO_lmlFbVDgFmns9s_mMzw)
@@ -119,6 +123,8 @@
 
 [http 重试](https://mp.weixin.qq.com/s/DAEZQnC2UYwcFeEh0e8VoQ)
 
+[Go 语言官方依赖注入工具 Wire](https://mp.weixin.qq.com/s/yHB9BzEGIki1fyjYojdpYQ)
+
 ##### micro
 
 ```
@@ -168,13 +174,21 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 
 [Go 应用优化指北](https://mp.weixin.qq.com/s/KFT1hw02Zih1TMMlDWztCQ)
 
+[Go 适合 IO 密集型？并不准确](https://mp.weixin.qq.com/s/xDXwsVjOfU2j3gisiHTZTQ)
+
 [Context这三个应用场景](https://mp.weixin.qq.com/s/uIL7gsdUn89MopbAxE2rjQ)
 
 [Context包详解](https://mp.weixin.qq.com/s/_5gBIwvtXKJME7AV2W2bqQ)
 
+[Go 组件 Context 源码学习笔记](https://mp.weixin.qq.com/s/PoXSEDHRyKCyjibFGS0wHw)
+
 [一套优雅的 Go 错误问题解决方案](https://mp.weixin.qq.com/s/RFF2gSikqXiWXIaOxQZsxQ)
 
 [错误处理的一些建议](https://mp.weixin.qq.com/s/T4CCs7r1COUq-mCnlfCJCQ)
+
+[Go 只会 if err != nil？这是不对的，分享这些优雅的处理姿势给你！](https://mp.weixin.qq.com/s/_oO-EZXZq8kUWxvJpdOGDA)
+
+[不想Go 错误处理太臃肿](https://mp.weixin.qq.com/s/9UiLG_co8k8SXbRUxE1SNw)
 
 [22条API设计的最佳实践](https://mp.weixin.qq.com/s/doQsjLpZ4F68GtK7XR5QDQ)
 
@@ -210,6 +224,14 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 
 [同步？异步？阻塞？非阻塞？多路复用？](https://mp.weixin.qq.com/s/OT9goRL6JSGl70DtF7a31Q)
 
+[IO多路复用 select/poll/epoll 实现原理](https://mp.weixin.qq.com/s/5xj42JPKG8o5T7hjXIKywg)
+
+[深入了解零拷贝](https://mp.weixin.qq.com/s/j1KjR5bRQV6oGrU5tsyHgg)
+
+[当谈论协程时，我们在谈论什么](https://mp.weixin.qq.com/s/IO4ynnKEfy2Rt-Me7EIeqg)
+
+[​浅谈协程](https://mp.weixin.qq.com/s/SyWjLg3lYx3pIJQfEtik8Q)
+
 #### nginx
 
 [入门知识](https://mp.weixin.qq.com/s/fbvncZnPhFF7lqroFt0rqQ)
@@ -225,6 +247,8 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 [基础知识](https://mp.weixin.qq.com/s/JBsqCQAouQ6hH7gcvtYMLg)
 
 [基础知识2](https://mp.weixin.qq.com/s/cHVsxIDPo8wXPTqvvdnvXQ)
+
+[UDP就一定比TCP快吗？](https://mp.weixin.qq.com/s/TCsl-gee8U0hCp0f914xZQ)
 
 [详解网络基础知识](https://mp.weixin.qq.com/s/MKfVBi9GwgY6qxVwxmsCcg)
 
@@ -248,13 +272,19 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 
 [SSH](https://mp.weixin.qq.com/s/GdbR83cv7HQeSd8aH5_QDQ)
 
+[能ping通，TCP就一定能连通吗？](https://mp.weixin.qq.com/s/fb2uUWz5ZjPEfYv_l6e4Zg)
+
 #### TCP
+
+[了解 HTTP 看这一篇就够](https://mp.weixin.qq.com/s/JVQPy8hAVoq1pRq63HKBOw)
 
 [必备知识点](https://mp.weixin.qq.com/s/THQ9zAJ4yso1knGtwKcw_Q)
 
 [三次握手](https://mp.weixin.qq.com/s/GQTVytNus8EcoGEkOSTUog)
 
 [三次握手2](https://mp.weixin.qq.com/s/U0_kldMWChgCZxoYKyVRZQ)
+
+[深入理解 Linux 的 TCP 三次握手](https://mp.weixin.qq.com/s/G2LuRZjQE15F6fSU-Bv_jw)
 
 [23个问题](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247485731&idx=1&sn=5b95cefa09ef1e72a8010339654b0e5d&source=41#wechat_redirect)
 
@@ -286,6 +316,8 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 
 [gRPC 基础概念详解](https://mp.weixin.qq.com/s/I2QHEBO26nGqhGwIw281Pg)
 
+[既然有HTTP协议，为什么还要有RPC](https://mp.weixin.qq.com/s/0QWxFylodn7T6nvcS6HsDg)
+
 #### Websocket
 
 [websocket](https://mp.weixin.qq.com/s/28FSBp4lj2l1H0caMNrjrw)
@@ -302,15 +334,24 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 
 [分库分表](https://mp.weixin.qq.com/s/CUkWPLdrdH2BJL0N7HFjvg)
 
+[分库分表后如何设计索引](https://mp.weixin.qq.com/s/H6DUHf985dZ7hoiitsK2bg)
+
 [24个面试题](https://mp.weixin.qq.com/s/tb557BSaUvnN-mYX_lsTLw)
 
 [拓展字段设计](http://blog.bytearch.com/2020/04/23/field-extension/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[慢 SQL 分析与优化](https://mp.weixin.qq.com/s/CaSVhAJgycjjbCxAkII2ZA)
+
+[海量数据冷热分离方案与实践](https://mp.weixin.qq.com/s/ZKRkZP6rLHuTE1wvnqmAPQ)
+
+[为什么说mysql数据库单表最大两千万](https://mp.weixin.qq.com/s/mWsDaMb8LTFf8M5eiT89Sg)
 #### redis
 
 [内存模型](https://mp.weixin.qq.com/s/YGmOoBZ7J-3dPrNntRTfSg)
 
 [Redis 竟然浪费了这么多内存](https://mp.weixin.qq.com/s/S8e7fXL0rO3pOS_QRp44iA)
+
+[带你走进 Redis](https://mp.weixin.qq.com/s/4bAPVdUr_XbIw9xFCtWhfw)
 
 [优化](https://mp.weixin.qq.com/s/NKGMTYCjsIga_1r2K3IPlw)
 
@@ -328,6 +369,8 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 
 [数据同步](https://mp.weixin.qq.com/s/RBEuvvaLVgmarXqG7Hc4Qw)
 
+[讲透数据库缓存一致性问题](https://mp.weixin.qq.com/s/U87wrGsx0Eop3CbF9mlTwQ)
+
 [为什么这么快](https://mp.weixin.qq.com/s/b_yzbLeQh57oYjqlIgPiYQ)
 
 [为什么这么快2](https://juejin.cn/post/6915599025882431501?utm_source=gold_browser_extension#heading-4)
@@ -339,6 +382,10 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 [面试题1](https://mp.weixin.qq.com/s/Z4a8wbWvPDGFTkKJH0X9VQ)
 
 [缓存一致性](https://mp.weixin.qq.com/s/GU3cbUkI84IMwttDz16P3w)
+
+[Redis 持久化策略浅析](https://mp.weixin.qq.com/s/v4z9tUm46mUN4SxxMwwP6A)
+
+[一文搞懂 Redis 架构演化之路](https://mp.weixin.qq.com/s/QssILJLna_v7XQWtV5UMzA)
 
 #### mongo
 
@@ -374,6 +421,8 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 
 [Kafka的存储架构](https://mp.weixin.qq.com/s/p45FtD673s-cdkeHqrEc-g)
 
+[Kafka在美团数据平台的实践](https://mp.weixin.qq.com/s/waVLtusovUkVDt7rKCcdDg)
+
 [rabbitmq](https://mp.weixin.qq.com/s/qSBaD1MInJrvl23kOeeMeA)
 
 [延时队列](https://mp.weixin.qq.com/s/qGywX7S8P3toy-RhQonDYQ)
@@ -396,6 +445,8 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 
 [消息队列背后的设计思想](https://mp.weixin.qq.com/s/k8sA6XPrp80JiNbuwKaVfg)
 
+[消息队列基本原理和选型对比](https://mp.weixin.qq.com/s/_oO-EZXZq8kUWxvJpdOGDA)
+
 ------
 
 ### ElasticSearch
@@ -405,6 +456,8 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 [入门2](https://mp.weixin.qq.com/s/l20pmtgwuBUMv6JUdzXIbg)
 
 [原来 Elasticsearch 还可以这么理解](https://mp.weixin.qq.com/s/DRQt_r1ZqECO07IsJKClbA)
+
+[美团外卖搜索基于Elasticsearch的优化实践](https://mp.weixin.qq.com/s/6k8THshasaYfSaLr58O1NA)
 
 [常见错误及最佳实践](https://mp.weixin.qq.com/s/zsAk7clgxzrjWLpQbYoTXg)
 
@@ -417,6 +470,14 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 ### prometheus 
 
 [深入理解prometheus](https://mp.weixin.qq.com/s/AjN6fq5DPs4QQhZ0Lc4eDQ)
+
+
+### 分布式任务
+[如何做好分布式任务调度](https://mp.weixin.qq.com/s/xdJzwaNfPGE0utV0gNBb6A)
+
+
+### 分布式唯一 ID 生成方案浅谈
+[如何做好分布式任务调度](https://mp.weixin.qq.com/s/10hn22MInanJXuT6wOYh1Q)
 
 ------
 
@@ -451,6 +512,8 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 [高性能](https://mp.weixin.qq.com/s/gsHiRnWdYNXnX4ycsRSAWA)
 
 [熔断](https://mp.weixin.qq.com/s/n9wpL6uSjza2nEprLbJDKw)
+
+[熔断原理](https://mp.weixin.qq.com/s/4JLDjEVoYnceKcbBH4zm5w)
 
 [面试1](https://mp.weixin.qq.com/s/fHSKIgJVTdoPVu7hFAZXSw)
 
@@ -494,6 +557,18 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 
 [图文详解 23 种设计模式](https://mp.weixin.qq.com/s/MYnCbyhiAClg9Q0IEp6kVA)
 
+[谈谈我工作中的23个设计模式](https://mp.weixin.qq.com/s/kc7tgGLiPUrmq67da9Uhow)
+
+[工厂模式](https://mp.weixin.qq.com/s/jnKIcqNgtzgP-N5ut1J5CA)
+
+[观察者模式](https://mp.weixin.qq.com/s/zT4d2snbG8td8fg9Gt--ig)
+
+[模板模式](https://mp.weixin.qq.com/s/SUpG6A5UAn8gGa2BWFb1ZA)
+
+[策略模式](https://mp.weixin.qq.com/s/mRuDqT7H-zFbrkI9bw5IdA)
+
+[建造者模式](https://mp.weixin.qq.com/s/6Np5C9qUCqDKZZNXGzCc2w)
+
 [通俗解释](https://mp.weixin.qq.com/s/3nhrHU84FNNulKYzHAyETA)
 
 [mybatis中的9种](https://mp.weixin.qq.com/s/d_2Pom9BfgTHbQf2h8O0LA)
@@ -522,6 +597,8 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 
 [一致性哈希](https://mp.weixin.qq.com/s/Q9MaeHXk6PPTOGfSFclURQ)
 
+[深入理解完美哈希](https://mp.weixin.qq.com/s/M8Wcj8sZ7UF1CMr887Puog)
+
 [面试1](https://mp.weixin.qq.com/s/VNr6pOygrzICXUi2YXRchA)
 
 ------
@@ -529,6 +606,8 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 ### 锁
 
 [乐观锁与悲观锁](https://mp.weixin.qq.com/s/XO_mw76JoPUJP7WtKD1mbg)
+
+[聊聊分布式锁](https://mp.weixin.qq.com/s/-N4x6EkxwAYDGdJhwvmZLw)
 
 [锁的应用场景](https://mp.weixin.qq.com/s/HH4ov97JkukLFg4EyPuzsQ)
 
@@ -551,6 +630,8 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 [连接池](https://mp.weixin.qq.com/s/90fQiMReB4OvWMDwA_xq_Q)
 
 [链路追踪](https://mp.weixin.qq.com/s/P12ivKCMRckx55s5vtf37A)
+
+[玩转链路追踪](https://mp.weixin.qq.com/s/xmSar4aG_HVuPvAi6auQOQ)
 
 [GraphQL](https://mp.weixin.qq.com/s?__biz=MzA4Nzc4MjI4MQ==&mid=2652404013&idx=1&sn=a259af0c9cd667ea860801aabb97dbc3&chksm=8bd8ffcbbcaf76dd763a1796928cc0e73f7af5517415c050959358a6c4a4390612abdfea642b&token=2128286661&lang=zh_CN#rd)
 
@@ -583,6 +664,8 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 [pod 入门指南](https://mp.weixin.qq.com/s/igpOZUszs8sNT4_226bnwA)
 
 [pod创建](https://mp.weixin.qq.com/s/lcenZGKTkAcTT7DZrhBbvw)
+
+[带你畅游 Kubernetes 调度器](https://mp.weixin.qq.com/s/jH9ho9bFNEt0UEsnKmifig)
 
 [大白话告诉你到底用不用学习这该死的Kubernetes容器化](https://mp.weixin.qq.com/s/2WOgn_9_5sx9_1uSIWlg8A)
 
@@ -647,6 +730,8 @@ https://mp.weixin.qq.com/s/935NOIg4GzRsupZefwqWeA
 ### 面试题
 
 [简历与项目介绍](https://mp.weixin.qq.com/s/phLXpzW6Vz7llcWijjmMUg)
+
+[面试归类](https://mp.weixin.qq.com/s/Elq7SWRpH08KmhX7auboOA)
 
 [面试1](https://mp.weixin.qq.com/s/puhJymLO8IqMoHpzXR-d9w)
 
